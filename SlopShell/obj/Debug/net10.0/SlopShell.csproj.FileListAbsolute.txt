@@ -1,0 +1,17 @@
+C:\Users\sevar\Desktop\Projects\SlopOS\SlopShell\SlopShell\SlopShell\bin\Debug\net10.0\SlopShell.exe
+C:\Users\sevar\Desktop\Projects\SlopOS\SlopShell\SlopShell\SlopShell\bin\Debug\net10.0\SlopShell.deps.json
+C:\Users\sevar\Desktop\Projects\SlopOS\SlopShell\SlopShell\SlopShell\bin\Debug\net10.0\SlopShell.runtimeconfig.json
+C:\Users\sevar\Desktop\Projects\SlopOS\SlopShell\SlopShell\SlopShell\bin\Debug\net10.0\SlopShell.dll
+C:\Users\sevar\Desktop\Projects\SlopOS\SlopShell\SlopShell\SlopShell\bin\Debug\net10.0\SlopShell.pdb
+C:\Users\sevar\Desktop\Projects\SlopOS\SlopShell\SlopShell\SlopShell\obj\Debug\net10.0\SlopShell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevar\Desktop\Projects\SlopOS\SlopShell\SlopShell\SlopShell\obj\Debug\net10.0\SlopShell.AssemblyInfoInputs.cache
+C:\Users\sevar\Desktop\Projects\SlopOS\SlopShell\SlopShell\SlopShell\obj\Debug\net10.0\SlopShell.AssemblyInfo.cs
+C:\Users\sevar\Desktop\Projects\SlopOS\SlopShell\SlopShell\SlopShell\obj\Debug\net10.0\SlopShell.csproj.CoreCompileInputs.cache
+C:\Users\sevar\Desktop\Projects\SlopOS\SlopShell\SlopShell\SlopShell\obj\Debug\net10.0\SlopShell.dll
+C:\Users\sevar\Desktop\Projects\SlopOS\SlopShell\SlopShell\SlopShell\obj\Debug\net10.0\refint\SlopShell.dll
+C:\Users\sevar\Desktop\Projects\SlopOS\SlopShell\SlopShell\SlopShell\obj\Debug\net10.0\SlopShell.pdb
+C:\Users\sevar\Desktop\Projects\SlopOS\SlopShell\SlopShell\SlopShell\obj\Debug\net10.0\SlopShell.genruntimeconfig.cache
+C:\Users\sevar\Desktop\Projects\SlopOS\SlopShell\SlopShell\SlopShell\obj\Debug\net10.0\ref\SlopShell.dll
+C:\Users\sevar\Desktop\Projects\SlopOS\SlopShell\SlopShell\SlopShell\bin\Debug\net10.0\Pastel.dll
+C:\Users\sevar\Desktop\Projects\SlopOS\SlopShell\SlopShell\SlopShell\obj\Debug\net10.0\SlopShell.csproj.AssemblyReference.cache
+C:\Users\sevar\Desktop\Projects\SlopOS\SlopShell\SlopShell\SlopShell\obj\Debug\net10.0\SlopShell.csproj.Up2Date

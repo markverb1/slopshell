@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2ZEHpwg2Sr4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sevar\\Desktop\\Projects\\SlopOS\\SlopShell\\SlopShell\\SlopShell\\SlopShell.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sevar\\.nuget\\packages\\pastel\\7.0.1\\pastel.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
